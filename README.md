@@ -19,7 +19,7 @@ learning guide that explains the code for someone new to Rust.
 The originals are untouched. Each Rust version lives in a `rust/` folder inside
 the same repo.
 
-Also here: [launchpad](https://github.com/gilbertordx/launchpad), a Rust
+Also here: [sietch](https://github.com/gilbertordx/sietch), a Rust
 terminal menu that starts any of these projects and opens it in the browser.
 
 ## How each one was checked
@@ -39,7 +39,7 @@ Not ported on purpose: the Garmin and Spotify features of logbook.
 
 ## Running them
 
-Easiest is [launchpad](https://github.com/gilbertordx/launchpad). By hand, from
+Easiest is [sietch](https://github.com/gilbertordx/sietch). By hand, from
 each project's folder:
 
 ```bash
