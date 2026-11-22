@@ -23,5 +23,5 @@ A rewrite that "looks right" is not enough. For each project:
   (logbook, Leptos).
 - Off-by-one error positions in JSON error messages (rhcp-chatbot).
 - A terminal program that crashed after running an interactive action because it
-  asked the terminal for the cursor position (sietch).
+  asked the terminal for the cursor position (ixian).
 - A front-matter parser that failed on Windows line endings (portfolio).
